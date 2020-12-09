@@ -1,0 +1,75 @@
+
+@import url("Component/Container&Background.css");
+
+@import url("Component/Btn&Link.css");
+
+@import url("Component/images&icons.css");
+
+@import url("Component/Library.css");
+
+@import url("Component/Lists.css");
+
+/* Colors and Fonts*/
+
+body {
+	color: #d3e3e6;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	background: linear-gradient(193.68deg, rgb(31 84 101) 0.68%, rgb(15 17 80) 100.48%);
+}
+
+
+#T1{
+	color: #bbe1fa; 
+	font-weight: bold;
+}
+
+
+.T2{
+	color: #072233;
+	background-color: rgba(187,225,250,0.5);
+	font-weight: 3em;
+	border-radius: 4px;
+	font: font-family: 'Roboto Slab', serif;
+}
+
+
+.T3{ 
+	font-weight: bold;
+}
+
+
+.Location{
+	color: #0f2b3e; 
+}
+
+
+/* Responsive design */
+
+@media (max-width: 640px) {
+	.card-bloc{
+		width: 300px;
+	}
+	.BannerDeFi{
+		width: 200px;
+	}
+	.images-schema{
+		width : 300px;
+	}
+}
+
+@media (max-width: 800px) {
+	.card-bloc{
+		width: 500px;
+	}
+
+	.images-schema{
+		width: 500px;
+	}
+}
+
+@media (max-height: 1200px) {
+	.BannerDeFi{
+		height: 500px;
+	}
+}

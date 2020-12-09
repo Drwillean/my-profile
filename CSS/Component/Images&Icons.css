@@ -1,0 +1,15 @@
+
+.image-circle {
+	width: 100px;
+	border-radius: 50%;
+}
+
+#PP {
+	width: 150px;
+	border-radius: 50%;
+}
+
+.images-schema{
+	width: 700px;
+	border-radius: 4px;
+}

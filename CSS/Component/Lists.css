@@ -1,0 +1,31 @@
+ul{
+	padding: 20px auto;
+}
+
+.list-DeFi{
+	text-align: justify;
+}
+
+.list-experiences{
+	list-style-type: none;
+}
+
+/*Banner*/
+
+.list-inline{
+list-style: none;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 0 10px;
+}
+
+.list-inline i{
+	font-size: 60px;
+	margin: 0 20px;
+}
+
+.Scroll-Cover{
+	list-style-type: none;
+}

@@ -1,0 +1,40 @@
+.card-bloc{
+	width: 800px;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px auto;
+	background: linear-gradient(193.68deg, rgb(25 189 167) 0.68%, rgb(121 12 107) 100.48%);
+}
+
+.card-library{
+	width: 800px;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px auto;
+	background: linear-gradient(193.68deg, rgb(191 159 35 / 76%) 0.68%, rgb(31 0 0 / 65%) 100.48%);
+}
+
+.BannerDeFi{
+	background: url(../../images/BannerDeFi-Top.jpg)  no-repeat,
+				url(../../images/BannerDeFi-Bottom.jfif) repeat;
+    background-size: cover;    
+}
+
+#Container-Acceuil{
+	text-align: left;
+}
+
+.shadowed-icon{
+	text-shadow: 0 5px 10px #2f134c;
+}
+
+.shadowed-circle{
+	box-shadow: 0 5px 10px #2f134c;
+}
+
+.Banner-Library{
+	background: url(../../images/Bibliothèque-Background.jpg) repeat;
+}
+

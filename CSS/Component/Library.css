@@ -1,0 +1,122 @@
+/* Bibliothèques*/
+
+.Bibliothèque{
+	margin: 0 auto;
+	width: 900px;
+	height: 200px;
+}
+
+.Title-Library{
+	background-color: #441800bf;
+	width: 200px;
+	margin: 0 auto;
+}
+
+.Cover-Book{
+	width: 150px;
+}
+
+.Cover-Music{
+	width: 180px;
+}
+
+.Cover-Movie{
+	width: 150px;
+}
+
+.Painting{
+	width: 150px;
+}
+
+#Affranchis-Cover{
+	width: 165px;
+}
+
+#Interstellar-Cover{
+	width: 164px;
+}
+
+#Casino-Cover{
+	width: 158px;
+}
+
+#Gravity-Cover{
+	width: 164px;
+}
+
+#Reservoir-Dog-Cover{
+	width: 171px;
+}
+
+#Pulp-Fiction-Cover{
+	width: 167px;
+}
+
+#Largo-Cover{
+	width: 175px;
+}
+
+#Formule-Dieu-Book{
+	width: 148px;
+}
+
+#Millenium-Book{
+	width: 147px;
+}
+
+#Art-Guerre-Book{
+	width: 152px;
+}
+
+#Traité-Manip-Book{
+	width: 160px;
+}
+
+#Brasilier{
+	width: 300px;
+}
+
+#Monnet{
+	width: 338px;
+}
+
+#Valdes{
+	width: 220px;
+}
+
+#Denzler{
+	width: 185px;
+}
+
+#Whittaker{
+	width: 220px;
+}
+
+#Walden{
+	width: 332px;
+}
+
+ul.Scroll-Cover{
+  margin: 0 auto;
+  padding: 0 auto;
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+}
+
+.Scroll-Cover::-webkit-scrollbar{
+	display: none;
+}
+
+.body-bibliothèque{
+	color: #ffffff;
+	height: 920px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	overflow-y: scroll; 
+}
+
+.body-bibliothèque::-webkit-scrollbar{
+	display: none;
+}
