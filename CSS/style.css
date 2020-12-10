@@ -56,10 +56,6 @@ body {
 	.images-schema{
 		width : 300px;
 	}
-	
-	.body-bibliothèque{
-		width : 300px;
-	}
 }
 
 @media (max-width: 800px) {
