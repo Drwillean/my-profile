@@ -48,10 +48,10 @@ body {
 
 @media (max-width: 640px) {
 	.card-bloc{
-		width: 300px;
+		width : 300px;
 	}
 	.BannerDeFi{
-		width: 200px;
+		width : 200px;
 	}
 	.images-schema{
 		width : 300px;
@@ -64,11 +64,11 @@ body {
 
 @media (max-width: 800px) {
 	.card-bloc{
-		width: 500px;
+		width : 500px;
 	}
 
 	.images-schema{
-		width: 500px;
+		width : 500px;
 	}
 	
 	.body-bibliothèque{
@@ -78,6 +78,6 @@ body {
 
 @media (max-height: 1200px) {
 	.BannerDeFi{
-		height: 500px;
+		height : 500px;
 	}
 }
