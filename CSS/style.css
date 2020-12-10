@@ -70,6 +70,10 @@ body {
 	.images-schema{
 		width : 500px;
 	}
+	
+	.body-bibliothèque{
+		width : 500px;
+	}
 }
 
 @media (max-height: 1200px) {
