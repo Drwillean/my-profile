@@ -56,10 +56,6 @@ body {
 	.images-schema{
 		width : 300px;
 	}
-	
-	.body-library{
-		width : 300px;
-	}
 }
 
 @media (max-width: 800px) {
@@ -68,10 +64,6 @@ body {
 	}
 
 	.images-schema{
-		width : 500px;
-	}
-	
-	.body-library{
 		width : 500px;
 	}
 }
